@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Abhishek 👋
 
-<!--
-**asliabhi12/asliabhi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building automation tools and developer productivity platforms.
 
-Here are some ideas to get you started:
+Tech Stack
+React
+Node.js
+Python
+PostgreSQL
+Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+Building SaaS tools and automation systems.
+
+Featured Projects
+Azure Billing Automation
+AI Resume Analyzer (in progress)
